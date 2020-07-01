@@ -1,0 +1,31 @@
+{
+  "name": "my-bank-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinicius-ledesma/my-bank-api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "atlas",
+    "mongoose",
+    "express"
+  ],
+  "author": "vinicius.ledesma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinicius-ledesma/my-bank-api/issues"
+  },
+  "homepage": "https://github.com/vinicius-ledesma/my-bank-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.5.9",
+    "mongoose": "^5.9.20"
+  }
+}
